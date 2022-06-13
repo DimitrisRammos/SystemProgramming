@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/dimitrisrammos/Documents/DIT_1/sixth/SySpro/Project_2'
+make: Leaving directory '/home/dimitrisrammos/Documents/DIT_1/sixth/SySpro/Project_2'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
