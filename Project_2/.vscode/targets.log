@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Jun 13 17:29:02 2022
+# Make data base, printed on Wed Jun 15 19:21:44 2022
 
 # Variables
 
@@ -53,7 +53,7 @@ SNAP_DATA = /var/snap/code/98
 # environment
 VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
 # environment
-JOURNAL_STREAM = 8:51246
+JOURNAL_STREAM = 8:51381
 # environment
 XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
 # environment
@@ -81,7 +81,7 @@ VSCODE_VERBOSE_LOGGING = true
 # environment
 _ = /snap/code/98/usr/share/code/code
 # environment
-MANAGERPID = 1710
+MANAGERPID = 1697
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
 # environment
@@ -97,7 +97,7 @@ PATH = /home/dimitrisrammos/.local/bin:/home/dimitrisrammos/anaconda3/bin:/home/
 # environment
 GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
 # environment
-SESSION_MANAGER = local/jrammos-HP-Pavilion-Laptop-15-cs2xxx:@/tmp/.ICE-unix/1965,unix/jrammos-HP-Pavilion-Laptop-15-cs2xxx:/tmp/.ICE-unix/1965
+SESSION_MANAGER = local/jrammos-HP-Pavilion-Laptop-15-cs2xxx:@/tmp/.ICE-unix/2335,unix/jrammos-HP-Pavilion-Laptop-15-cs2xxx:/tmp/.ICE-unix/2335
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
@@ -115,7 +115,7 @@ DISABLE_WAYLAND = 1
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-INVOCATION_ID = 497475251c6c4ec891b585913f75f37e
+INVOCATION_ID = a5ef065c1cf14fdbbe1bb33c83625387
 # environment
 GDK_PIXBUF_MODULEDIR = /snap/code/98/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
 # default
@@ -127,13 +127,12 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 5512
+GIO_LAUNCHED_DESKTOP_FILE_PID = 17354
 # automatic
 %F = $(notdir $%)
 # environment
 DISPLAY = :1
 # environment
- 
 VSCODE_PIPE_LOGGING = true
 # environment
 SNAP_INSTANCE_KEY = 
@@ -142,7 +141,7 @@ PWD = /home/dimitrisrammos/Documents/DIT_1/sixth/SySpro/Project_2
 # default
 .LOADED := 
 # environment
-SSH_AGENT_PID = 1930
+SSH_AGENT_PID = 2300
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
 # environment
@@ -194,7 +193,7 @@ SHLVL = 0
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-b5220b45-3708-433d-9bae-d65d10148183.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-c8e0784e-1c50-4dfe-9f4d-523404d957a0.sock
 # default
 MAKE_VERSION := 4.2.1
 # environment
@@ -278,7 +277,7 @@ LC_ADDRESS = el_GR.UTF-8
 # environment
 LANG = C
 # environment
-VSCODE_PID = 5560
+VSCODE_PID = 17399
 # variable set hash-table stats:
 # Load=133/1024=13%, Rehash=0, Collisions=23/155=15%
 
@@ -288,9 +287,9 @@ VSCODE_PID = 5560
 
 # Directories
 
-# . (device 2069, inode 3253360): 4 files, no impossibilities.
+# . (device 2069, inode 3253360): 5 files, no impossibilities.
 
-# 4 files, no impossibilities in 1 directories.
+# 5 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -304,6 +303,7 @@ all:
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has not been updated.
+ 
 
 # Not a target:
 Makefile:
@@ -312,7 +312,6 @@ Makefile:
 #  File has been updated.
 #  Failed to be updated.
 
- 
 # Not a target:
 makefile:
 #  Implicit rule search has been done.
@@ -341,12 +340,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 12 / storage = 106 B / avg = 8 B
-# current buf: size = 8162 B / used = 106 B / count = 12 / avg = 8 B
+# strcache buffers: 1 (0) / strings = 13 / storage = 148 B / avg = 11 B
+# current buf: size = 8162 B / used = 148 B / count = 13 / avg = 11 B
 
-# strcache performance: lookups = 15 / hit rate = 20%
+# strcache performance: lookups = 16 / hit rate = 18%
 # hash-table stats:
-# Load=12/8192=0%, Rehash=0, Collisions=1/15=7%
-# Finished Make data base on Mon Jun 13 17:29:02 2022
+# Load=13/8192=0%, Rehash=0, Collisions=1/16=6%
+# Finished Make data base on Wed Jun 15 19:21:44 2022
 
  
