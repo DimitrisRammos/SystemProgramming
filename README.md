@@ -11,6 +11,8 @@ Check the Vocalization [here.](https://github.com/DimitrisRammos/SystemProgrammi
 ```
 cd Project_1/program
 make run
+or
+./finder.sh arguments //for shell script
 ```
 
 ## For Project_2:
